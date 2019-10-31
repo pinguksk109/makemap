@@ -14,8 +14,6 @@ python3 gpx.py
 Thankyou m(_ _)m 
 <br>
 https://chari-ngo.hatenablog.com/entry/2018/12/17/150803
-
-<br>
 <br>
 <br>
 gpxデータからマップにデータを可視化するプログラムです。
@@ -23,4 +21,5 @@ gpxデータからマップにデータを可視化するプログラムです�
 gpxとはGPSの座標データです。
 <br>
 python3を利用　ubuntu16.04で検証
+
 

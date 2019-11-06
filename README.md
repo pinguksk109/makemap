@@ -22,4 +22,4 @@ gpxとはGPSの座標データです。
 <br>
 python3を利用　ubuntu16.04で検証
 
-
+https://github.com/pinguksk109/makemap/issues/3#issue-518690481
